@@ -1,4 +1,5 @@
 def Ticket_Pricing(n: int) -> int:
+   
    if n<5:
       return 0
    elif 5<=n <=17:

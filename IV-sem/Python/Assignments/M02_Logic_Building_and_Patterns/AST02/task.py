@@ -9,3 +9,4 @@ def reverse_number(n: int) -> int:
 if __name__ == "__main__":
     n = int(input())
     print(reverse_number(n))
+# Write a Python program to reverse a number. The program should take an integer input from the user and output the reversed number.

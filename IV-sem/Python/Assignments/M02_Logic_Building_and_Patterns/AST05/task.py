@@ -8,3 +8,4 @@ def number_triangle(n: int) -> str:
 if __name__ == "__main__":
     n = int(input())
     print(number_triangle(n))
+# Write a Python program to print a right triangle pattern of numbers. The program should take an
